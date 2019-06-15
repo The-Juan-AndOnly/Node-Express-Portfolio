@@ -1,49 +1,51 @@
 {
-  "projects": [
-    {
-      "id": 1,
-      "project_name": "Random Quote Generator",
-      "description": "A webpage that displays randomly generated quotes manually or on a 15 second timer.",
-      "technologies": "HTML, CSS, JavaScript",
-      "live_link": "https://the-juan-andonly.github.io/Treehouse-Random-Quote-Generator/",
-      "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-Random-Quote-Generator",
-      "image_urls": []
-    },
-    {
-      "id": 2,
-      "project_name": "Pagination List with Filter",
-      "description": "A webpage create pagination for XX amount of students and also allows for finding/filtering of students.",
-      "technologies": "HTML, CSS, JavaScript",
-      "live_link": "https://the-juan-andonly.github.io/Treehouse-Random-Quote-Generator/",
-      "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-Random-Quote-Generator",
-      "image_urls": []
-    },
-    {
-      "id": 3,
-      "project_name": "Form",
-      "description": "JQuery Submission Form.",
-      "technologies": "HTML, CSS, JavaScript, jQuery",
-      "live_link": "https://the-juan-andonly.github.io/Treehouse-Random-Quote-Generator/",
-      "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-Random-Quote-Generator",
-      "image_urls": []
-    },
-    {
-      "id": 4,
-      "project_name": "Phrase Hunter",
-      "description": "Based off the popular game Wheel of Fortune. User guesses letter with on screen keyboard or physical keyboard. Object of the game is to guess to the correct word before your 5 lives run out.",
-      "technologies": "HTML, CSS, JavaScript",
-      "live_link": "https://the-juan-andonly.github.io/Treehouse-Random-Quote-Generator/",
-      "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-Random-Quote-Generator",
-      "image_urls": []
-    },
-    {
-      "id": 5,
-      "project_name": "Random API ",
-      "description": "Connect to the RandomUser API and display 12 random users. When a user is clicked a modal with that user is displayed.",
-      "technologies": "HTML, CSS, JavaScript, Fetch,",
-      "live_link": "https://the-juan-andonly.github.io/Treehouse-Random-Quote-Generator/",
-      "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-Random-Quote-Generator",
-      "image_urls": []
-    }
-  ]
+  "data": {
+    "projects": [
+      {
+        "id": 1,
+        "project_name": "Random Quote Generator",
+        "description": "A webpage that displays randomly generated quotes manually or on a 15 second timer.",
+        "technologies": "HTML, CSS, JavaScript",
+        "live_link": "https://the-juan-andonly.github.io/Treehouse-Random-Quote-Generator/",
+        "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-Random-Quote-Generator",
+        "image_urls": []
+      },
+      {
+        "id": 2,
+        "project_name": "Pagination List with Filter",
+        "description": "A webpage create pagination for XX amount of students and also allows for finding/filtering of students.",
+        "technologies": "HTML, CSS, JavaScript",
+        "live_link": "https://the-juan-andonly.github.io/Treehouse-Random-Quote-Generator/",
+        "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-Random-Quote-Generator",
+        "image_urls": []
+      },
+      {
+        "id": 3,
+        "project_name": "Form",
+        "description": "JQuery Submission Form.",
+        "technologies": "HTML, CSS, JavaScript, jQuery",
+        "live_link": "https://the-juan-andonly.github.io/Treehouse-Random-Quote-Generator/",
+        "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-Random-Quote-Generator",
+        "image_urls": []
+      },
+      {
+        "id": 4,
+        "project_name": "Phrase Hunter",
+        "description": "Based off the popular game Wheel of Fortune. User guesses letter with on screen keyboard or physical keyboard. Object of the game is to guess to the correct word before your 5 lives run out.",
+        "technologies": "HTML, CSS, JavaScript",
+        "live_link": "https://the-juan-andonly.github.io/Treehouse-Random-Quote-Generator/",
+        "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-Random-Quote-Generator",
+        "image_urls": []
+      },
+      {
+        "id": 5,
+        "project_name": "Random API ",
+        "description": "Connect to the RandomUser API and display 12 random users. When a user is clicked a modal with that user is displayed.",
+        "technologies": "HTML, CSS, JavaScript, Fetch,",
+        "live_link": "https://the-juan-andonly.github.io/Treehouse-Random-Quote-Generator/",
+        "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-Random-Quote-Generator",
+        "image_urls": []
+      }
+    ]
+  }
 }

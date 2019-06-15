@@ -8,6 +8,8 @@ app.set('view engine', 'pug');
 
 const mainRoutes = require('./routes');
 const projectRoutes = require('./routes/projects');
+// Create static Route for public folder which contains CSS and JS
+app.use(express.static('public'));
 
 app.use(mainRoutes);
 app.use('/projects', projectRoutes);
