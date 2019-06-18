@@ -8,7 +8,7 @@
         "technologies": ["HTML", "CSS", "JavaScript"],
         "live_link": "https://the-juan-andonly.github.io/Treehouse-Random-Quote-Generator/",
         "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-Random-Quote-Generator",
-        "image_urls": []
+        "image_urls": ["/static/public/images/thelook.png"]
       },
       {
         "id": 2,
@@ -42,6 +42,15 @@
         "project_name": "Random API ",
         "description": "Connect to the RandomUser API and display 12 random users. When a user is clicked a modal with that user is displayed.",
         "technologies": ["HTML", "CSS", "JavaScript"],
+        "live_link": "https://the-juan-andonly.github.io/Treehouse-Random-Quote-Generator/",
+        "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-Random-Quote-Generator",
+        "image_urls": []
+      },
+      {
+        "id": 6,
+        "project_name": "Vince's Cheesesteak",
+        "description": "A single page website for a local food truck using React, Gatsby, Contentful, and Netlify",
+        "technologies": ["React, Gatsby, Contentful, Netlify"],
         "live_link": "https://the-juan-andonly.github.io/Treehouse-Random-Quote-Generator/",
         "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-Random-Quote-Generator",
         "image_urls": []
