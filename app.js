@@ -1,20 +1,25 @@
 const express = require('express');
+const path = require('path');
 const app = express();
 
 const PORT = process.env.PORT || 3000;
 
 // Setup Pug
+// app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'pug');
 
 // import Routes
-const mainRoutes = require('./routes');
-const projectRoutes = require('./routes/projects');
+const mainRoute = require('./routes');
+const aboutRoute = require('./routes/about');
+const projectRoute = require('./routes/projects');
 
 // Create static Route for public folder which contains CSS and JS
+
 app.use('/static', express.static('public'));
 
-app.use(mainRoutes);
-app.use('/projects', projectRoutes);
+app.use(mainRoute);
+app.use('/about', aboutRoute);
+app.use('/project', projectRoute);
 
 app.use((req, res, next) => {
   const err = new Error('Not Found');

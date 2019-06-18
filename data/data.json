@@ -8,7 +8,7 @@
         "technologies": ["HTML", "CSS", "JavaScript"],
         "live_link": "https://the-juan-andonly.github.io/Treehouse-Random-Quote-Generator/",
         "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-Random-Quote-Generator",
-        "image_urls": ["/static/public/images/thelook.png"]
+        "image_urls": ["static/images/thelook.png"]
       },
       {
         "id": 2,
@@ -17,7 +17,7 @@
         "technologies": ["HTML", "CSS", "JavaScript"],
         "live_link": "https://the-juan-andonly.github.io/Treehouse-Random-Quote-Generator/",
         "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-Random-Quote-Generator",
-        "image_urls": []
+        "image_urls": ["static/images/thelook.png"]
       },
       {
         "id": 3,
@@ -26,7 +26,7 @@
         "technologies": ["HTML", "CSS", "JavaScript"],
         "live_link": "https://the-juan-andonly.github.io/Treehouse-Random-Quote-Generator/",
         "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-Random-Quote-Generator",
-        "image_urls": []
+        "image_urls": ["static/images/thelook.png"]
       },
       {
         "id": 4,
@@ -35,7 +35,7 @@
         "technologies": ["HTML", "CSS", "JavaScript"],
         "live_link": "https://the-juan-andonly.github.io/Treehouse-Random-Quote-Generator/",
         "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-Random-Quote-Generator",
-        "image_urls": []
+        "image_urls": ["static/images/thelook.png"]
       },
       {
         "id": 5,
@@ -44,7 +44,7 @@
         "technologies": ["HTML", "CSS", "JavaScript"],
         "live_link": "https://the-juan-andonly.github.io/Treehouse-Random-Quote-Generator/",
         "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-Random-Quote-Generator",
-        "image_urls": []
+        "image_urls": ["static/images/thelook.png"]
       },
       {
         "id": 6,
@@ -53,7 +53,7 @@
         "technologies": ["React, Gatsby, Contentful, Netlify"],
         "live_link": "https://the-juan-andonly.github.io/Treehouse-Random-Quote-Generator/",
         "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-Random-Quote-Generator",
-        "image_urls": []
+        "image_urls": ["static/images/thelook.png"]
       }
     ]
   }
