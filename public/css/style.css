@@ -67,8 +67,18 @@ a:hover {
   background: #2a2bff;
   color: #fff;
   box-shadow: none !important;
+  opacity: 0;
+  animation: somethingEasy 2.5s forwards;
 }
 
+@keyframes somethingEasy {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
 .portfolio-me p {
   font-size: 14px;
   color: #faf7ec;
@@ -119,6 +129,13 @@ a:hover {
   margin: 0;
   padding: 10px 50px;
   background: #94f8fa;
+}
+
+.portfolio-index .cell {
+  transition: transform 0.2s;
+}
+.portfolio-index .cell:hover {
+  transform: scale(1.1);
 }
 
 .portfolio-index .thumbnail {
