@@ -8,8 +8,13 @@ const { projects } = data;
 router.get('/:id', (req, res) => {
   const { id } = req.params;
   const projectData = projects[id];
+  projectData !== undefined
+    ? res.render('project', { projectData })
+    : res.redirect(301, '/');
+});
 
-  res.render('project', { projectData });
+router.get('/', (req, res) => {
+  res.redirect(301, '/');
 });
 
 module.exports = router;

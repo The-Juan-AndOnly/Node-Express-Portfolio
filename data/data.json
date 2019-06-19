@@ -4,56 +4,86 @@
       {
         "id": 1,
         "project_name": "Random Quote Generator",
-        "description": "A webpage that displays randomly generated quotes manually or on a 15 second timer.",
+        "description": "An app that displays random famous quotes each time a button is clicked and/or after 15 seconds.",
         "technologies": ["HTML", "CSS", "JavaScript"],
         "live_link": "https://the-juan-andonly.github.io/Treehouse-Random-Quote-Generator/",
         "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-Random-Quote-Generator",
-        "image_urls": ["static/images/thelook.png"]
+        "image_urls": [
+          "/static/images/project1/p1_main.png",
+          "/static/images/project1/p1_quote1.png",
+          "/static/images/project1/p1_quote2.png",
+          "/static/images/project1/p1_quote3.png"
+        ]
       },
       {
         "id": 2,
         "project_name": "Pagination List with Filter",
-        "description": "A webpage create pagination for XX amount of students and also allows for finding/filtering of students.",
+        "description": "Use a common web development technique known as 'pagination' to enhance the usability of a web page",
         "technologies": ["HTML", "CSS", "JavaScript"],
-        "live_link": "https://the-juan-andonly.github.io/Treehouse-Random-Quote-Generator/",
-        "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-Random-Quote-Generator",
-        "image_urls": ["static/images/thelook.png"]
+        "live_link": "https://the-juan-andonly.github.io/Treehouse-Pagination/index.html",
+        "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-Pagination",
+        "image_urls": [
+          "/static/images/project2/p2_main.png",
+          "/static/images/project2/p2_display.png",
+          "/static/images/project2/p2_filter.png",
+          "/static/images/project2/p2_zero.png"
+        ]
       },
       {
         "id": 3,
-        "project_name": "Form",
-        "description": "JQuery Submission Form.",
-        "technologies": ["HTML", "CSS", "JavaScript"],
-        "live_link": "https://the-juan-andonly.github.io/Treehouse-Random-Quote-Generator/",
-        "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-Random-Quote-Generator",
-        "image_urls": ["static/images/thelook.png"]
+        "project_name": "Interactive Form",
+        "description": "An interactive registration form for a fictional conference called 'FullStack Conf' using JavaScript and jQuery",
+        "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
+        "live_link": "https://the-juan-andonly.github.io/Treehouse-InteractiveForm/",
+        "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-InteractiveForm",
+        "image_urls": [
+          "/static/images/project3/p3_main.png",
+          "/static/images/project3/p3_form.png",
+          "/static/images/project3/p3_validation.png",
+          "/static/images/project3/p3_modal.png"
+        ]
       },
       {
         "id": 4,
         "project_name": "Phrase Hunter",
         "description": "Based off the popular game Wheel of Fortune. User guesses letter with on screen keyboard or physical keyboard. Object of the game is to guess to the correct word before your 5 lives run out.",
         "technologies": ["HTML", "CSS", "JavaScript"],
-        "live_link": "https://the-juan-andonly.github.io/Treehouse-Random-Quote-Generator/",
-        "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-Random-Quote-Generator",
-        "image_urls": ["static/images/thelook.png"]
+        "live_link": "https://phrasehunter.netlify.com/",
+        "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-Phrase-Hunter",
+        "image_urls": [
+          "/static/images/project4/p4_main.png",
+          "/static/images/project4/phrase_hunter_main.png",
+          "/static/images/project4/phrase_hunter_won.png",
+          "/static/images/project4/phrase_hunter_lose.png"
+        ]
       },
       {
         "id": 5,
         "project_name": "Random API ",
         "description": "Connect to the RandomUser API and display 12 random users. When a user is clicked a modal with that user is displayed.",
-        "technologies": ["HTML", "CSS", "JavaScript"],
-        "live_link": "https://the-juan-andonly.github.io/Treehouse-Random-Quote-Generator/",
-        "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-Random-Quote-Generator",
-        "image_urls": ["static/images/thelook.png"]
+        "technologies": ["Fetch API", "JavaScript"],
+        "live_link": "https://the-juan-andonly.github.io/Treehouse-Public-API/",
+        "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-Public-API",
+        "image_urls": [
+          "/static/images/project5/p5_main.png",
+          "/static/images/project5/p5_12.png",
+          "/static/images/project5/p5_modal1.png",
+          "/static/images/project5/p5_modal2.png"
+        ]
       },
       {
         "id": 6,
         "project_name": "Vince's Cheesesteak",
         "description": "A single page website for a local food truck using React, Gatsby, Contentful, and Netlify",
-        "technologies": ["React, Gatsby, Contentful, Netlify"],
-        "live_link": "https://the-juan-andonly.github.io/Treehouse-Random-Quote-Generator/",
-        "github_link": "https://github.com/The-Juan-AndOnly/Treehouse-Random-Quote-Generator",
-        "image_urls": ["static/images/thelook.png"]
+        "technologies": ["React", "Gatsby", "Contentful", "Netlify"],
+        "live_link": "https://vincecheesesteaks.netlify.com/",
+        "github_link": "https://github.com/The-Juan-AndOnly/gatsby-site",
+        "image_urls": [
+          "/static/images/vinces/vince_main.png",
+          "/static/images/vinces/vince1.png",
+          "/static/images/vinces/vince3.png",
+          "/static/images/vinces/contentful.png"
+        ]
       }
     ]
   }
